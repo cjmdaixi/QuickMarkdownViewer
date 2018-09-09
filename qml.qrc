@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>markdown-it.js</file>
+        <file>default.css</file>
+    </qresource>
+</RCC>
