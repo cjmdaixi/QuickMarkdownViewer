@@ -1,5 +1,6 @@
 table {
-    border-color: red; 
+    border-color: blue;
     border-width: 1px; 
-    border-style: dashed;
+    font-size: 20px;
+    border: solid;
 }
